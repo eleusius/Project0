@@ -1,0 +1,10 @@
+/* https://stackoverflow.com/questions/25556622/bootstrap-cover-template-where-to-place-image */
+html,
+body {
+  background: url(static/nebula.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
