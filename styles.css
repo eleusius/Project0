@@ -1,0 +1,9 @@
+html,
+body {
+  height: 100%;
+  background-color: #333;
+  /* background image */
+  background-image: url(wallpaper-hourglass-nebula.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
