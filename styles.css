@@ -10,6 +10,18 @@ body {
 
 @media (max-width: 768px) {
   h1 {
-    font-size: 24px
+    font-size: 24px;
   }
+}
+
+#table-home {
+  font-size: 1rem;
+  border: 3px solid white;
+
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+
 }
