@@ -6,12 +6,7 @@ body {
   background-image: url(wallpaper-hourglass-nebula.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-@media (max-width: 768px) {
-  h1 {
-    font-size: 24px;
-  }
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .slimg {
