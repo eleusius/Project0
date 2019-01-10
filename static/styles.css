@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  background-color: #333;
+  /* background image */
+  background-image: url(wallpaper-hourglass-nebula.jpg);
+  background-repeat: repeat;
+  background-size: cover;
+  font-family: 'Philosopher', sans-serif;
+}
+
+.slimg {
+  border: 2px solid white;
+}
+
+#table-home {
+  font-size: 1rem;
+  border: 3px solid white;
+
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+
+}
